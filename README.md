@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! 🙌
 
 👋 Hello. My name's Ayhan, and I'm a **Lead DevOps Engineer (AWS)** with over 8 years of experience in the IT / Cloud Computing industry. My career is not just a job; it's my passion, purpose, and lifelong commitment.
 
