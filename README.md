@@ -1,6 +1,8 @@
 ### Hi, I'm Ayhan Setirekli! 🙌
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayhansetirekli/) [![Credly](https://img.shields.io/badge/Credly-white?style=flat&logo=credly)](https://www.credly.com/users/ayhan) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/ayhansetirekli) [![DevTo](https://img.shields.io/badge/dev.to-black?style=flat&logo=devdotto&logoColor=white)](https://dev.to/ayhansetirekli) ![](https://komarev.com/ghpvc/?username=ayhansetirekli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayhansetirekli/) [![Credly](https://img.shields.io/badge/Credly-white?style=flat&logo=credly)](https://www.credly.com/users/ayhan) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/ayhansetirekli) [![DevTo](https://img.shields.io/badge/dev.to-black?style=flat&logo=devdotto&logoColor=white)](https://dev.to/ayhansetirekli) 
+
+![Ayhan's Profile Views](https://komarev.com/ghpvc/?username=ayhansetirekli)
 
 👋 I'm currently working as a **Lead DevOps Engineer (AWS)** at Cognizant and have over 8 years of experience in the IT / Cloud Computing industry. My career is not just a job; it's my passion, purpose, and lifelong commitment.
 
