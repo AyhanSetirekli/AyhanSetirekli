@@ -1,4 +1,4 @@
-### Hi, I'm Ayhan Setirekli! 🙌
+# Hi, I'm Ayhan Setirekli! 🙌
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayhansetirekli/) [![Credly](https://img.shields.io/badge/Credly-white?style=flat&logo=credly)](https://www.credly.com/users/ayhan) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/ayhansetirekli) [![DevTo](https://img.shields.io/badge/dev.to-black?style=flat&logo=devdotto&logoColor=white)](https://dev.to/ayhansetirekli) 
 
