@@ -9,8 +9,10 @@ jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          CREDLY_USER: ayhan # optional, but default will use the same from github
+          CREDLY_USER: ayhan # optional, but the default will use the same from GitHub        
