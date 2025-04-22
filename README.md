@@ -15,6 +15,9 @@
 🤝 Let's connect and explore how we can collaborate on cloud initiatives (connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayhansetirekli/)), share insights, and collectively shape the future of cloud engineering.
 
 ## My Badges 🪪
+
+Check out my [![Credly](https://img.shields.io/badge/Credly-white?style=flat&logo=credly)](https://www.credly.com/users/ayhan)) for the latest updates. 
+
 <!--START_SECTION:badges-->
 [![HashiCorp Certified: Terraform Authoring and Operations Professional](https://images.credly.com/size/110x110/images/1229ce48-f435-4832-8afe-c33d17fa643b/image.png)](http://www.credly.com/badges/6c763a71-4d3c-48a4-aed8-b46de1ab46d3 "HashiCorp Certified: Terraform Authoring and Operations Professional")
 [![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/110x110/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob)](http://www.credly.com/badges/9c7038a7-08b3-47c2-92d5-416a7689bb4c "HashiCorp Certified: Terraform Associate (003)")
