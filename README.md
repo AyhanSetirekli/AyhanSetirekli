@@ -2,6 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayhansetirekli/) [![Credly](https://img.shields.io/badge/Credly-white?style=flat&logo=credly)](https://www.credly.com/users/ayhan) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/ayhansetirekli) [![DevTo](https://img.shields.io/badge/dev.to-black?style=flat&logo=devdotto&logoColor=white)](https://dev.to/ayhansetirekli) ![Ayhan's Profile Views](https://komarev.com/ghpvc/?username=ayhansetirekli)
 
+
+## About Me ✨
+
 👋 I'm currently working as a **Lead DevOps Engineer (AWS)** at Cognizant and have over 8 years of experience in the IT / Cloud Computing industry. My career is not just a job; it's my passion, purpose, and lifelong commitment.
 
 📚 I believe in continuous learning and knowledge sharing (check out my [![DevTo](https://img.shields.io/badge/dev.to-black?style=flat&logo=devdotto&logoColor=white)](https://dev.to/ayhansetirekli)) to stay ahead in this dynamic/ever-changing field. I stay current with the latest cloud trends, best practices, and emerging technologies to deliver cutting-edge solutions.
@@ -15,8 +18,6 @@
 🤝 Let's connect and explore how we can collaborate on cloud initiatives (connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayhansetirekli/)), share insights, and collectively shape the future of cloud engineering.
 
 ## My Badges 🪪
-
-Check out my [![Credly](https://img.shields.io/badge/Credly-white?style=flat&logo=credly)](https://www.credly.com/users/ayhan)) for the latest updates. 
 
 <!--START_SECTION:badges-->
 [![HashiCorp Certified: Terraform Authoring and Operations Professional](https://images.credly.com/size/110x110/images/1229ce48-f435-4832-8afe-c33d17fa643b/image.png)](http://www.credly.com/badges/6c763a71-4d3c-48a4-aed8-b46de1ab46d3 "HashiCorp Certified: Terraform Authoring and Operations Professional")
