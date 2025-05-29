@@ -11,7 +11,7 @@
 
 🎓 I hold a Master's degree in Big Data & Text Analytics, where I excelled with a merit grade, harnessing the power of data processing and analytics to unlock insights in vast datasets.
 
-🌍  My journey in the cloud industry began in 2018 when I joined Inawisdom with **zero cloud experience**. Through determination, dedication, and a thirst for knowledge, I transformed from a newcomer to a highly skilled individual in all things AWS, cloud architecture, and more.
+🌍  My journey in the cloud industry began in 2018 when I joined Inawisdom with **ZERO cloud experience**. Through determination, dedication, and a thirst for knowledge, I transformed from a newcomer to a highly skilled individual in all things AWS, cloud architecture, and more.
 
 💼 I've earned my stripes in cloud computing and infrastructure management (check out my [![Credly](https://img.shields.io/badge/Credly-white?style=flat&logo=credly)](https://www.credly.com/users/ayhan)), with a strong focus on AWS. My extensive AWS, Terraform, GitHub and Kubernetes + Argo certifications further validate my expertise/knowledge in deploying and managing cloud applications/infrastructures at scale. I have also begun my journey with GCP and have attained the Cloud Digital Leader Certification (more to come!).
 
