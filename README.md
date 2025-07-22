@@ -5,7 +5,7 @@
 
 ## About Me ✨
 
-👋 I'm currently working as a **Lead DevOps Engineer (AWS)** at Cognizant and have over 8 years of experience in the IT / Cloud Computing industry. My career is not just a job; it's my passion, purpose, and lifelong commitment.
+👋 I'm currently working as a **Senior DevOps Engineer** at OpenCorporates and have over 8 years of experience in the IT / Cloud Computing industry. My career is not just a job; it's my passion, purpose, and lifelong commitment.
 
 📚 I believe in continuous learning and knowledge sharing to stay ahead in this dynamic/ever-changing field (check out my [![DevTo](https://img.shields.io/badge/dev.to-black?style=flat&logo=devdotto&logoColor=white)](https://dev.to/ayhansetirekli)). I stay current with the latest cloud trends, best practices, and emerging technologies to deliver cutting-edge solutions.
 
