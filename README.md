@@ -5,7 +5,7 @@
 
 ## About Me ✨
 
-👋 I'm a **Senior DevOps Engineer** with over 8 years of experience in the IT / Cloud Computing industry. My career is not just a job; it's my passion, purpose, and lifelong commitment.
+👋 I'm a **Platform Engineer** with over 8 years of experience in the IT / Cloud Computing industry. My career is not just a job; it's my passion, purpose, and lifelong commitment.
 
 📚 I believe in continuous learning and knowledge sharing to stay ahead in this dynamic/ever-changing field (check out my [![DevTo](https://img.shields.io/badge/dev.to-black?style=flat&logo=devdotto&logoColor=white)](https://dev.to/ayhansetirekli)). I stay current with the latest cloud trends, best practices, and emerging technologies to deliver cutting-edge solutions.
 
@@ -23,6 +23,7 @@
 <a href="https://www.credly.com/badges/6c763a71-4d3c-48a4-aed8-b46de1ab46d3" title="HashiCorp Certified: Terraform Authoring and Operations Professional"><img src="https://images.credly.com/size/80x80/images/a4c6650b-58c3-4be5-bdb0-4d1f437d4e40/blob" alt="HashiCorp Certified: Terraform Authoring and Operations Professional" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/9c7038a7-08b3-47c2-92d5-416a7689bb4c" title="HashiCorp Certified: Terraform Associate (003)"><img src="https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/e3ea0785-4608-42f5-ad6a-28183ed226e5" title="CKA: Certified Kubernetes Administrator"><img src="https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/7a3c5077-7aa7-4eb1-a0dc-2d5c9dba12a6" title="CKAD: Certified Kubernetes Application Developer"><img src="https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/632dd34a-752b-4443-9cf6-f82d52a7cc21" title="KCNA: Kubernetes and Cloud Native Associate"><img src="https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4599474f-e4f1-4235-9ecc-b7320f5e84cd" title="KCSA: Kubernetes and Cloud Native Security Associate"><img src="https://images.credly.com/size/80x80/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="KCSA: Kubernetes and Cloud Native Security Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/58cd9b0d-620d-4c9b-a69a-e0a40d06ad59" title="CAPA: Certified Argo Project Associate"><img src="https://images.credly.com/size/80x80/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png" alt="CAPA: Certified Argo Project Associate" width="80" height="80"></a>
@@ -44,5 +45,4 @@
 <a href="https://www.credly.com/badges/968cc91b-feb1-49d7-b04d-da938d43dd27" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/0f7436ff-23e7-4028-a20e-34629c2ea80a" title="Well-Architected Proficient"><img src="https://images.credly.com/size/80x80/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" alt="Well-Architected Proficient" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/60c8c25f-bde4-4274-91bc-1f5b3e50423b" title="ITIL 4 ® Foundation"><img src="https://images.credly.com/size/80x80/images/8b943c4b-c186-4e9f-84aa-004322b76eed/image.png" alt="ITIL 4 ® Foundation" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/7a3c5077-7aa7-4eb1-a0dc-2d5c9dba12a6" title="CKAD: Certified Kubernetes Application Developer"><img src="https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="80" height="80"></a>
 <!--END_SECTION:badges-->
